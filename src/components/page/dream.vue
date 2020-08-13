@@ -1,6 +1,6 @@
 <template>
   <div class="dream">
-   55555
+   做梦
   </div>
 </template>
 

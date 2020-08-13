@@ -1,6 +1,6 @@
 <template>
   <div class="history">
-   333333
+   历史
   </div>
 </template>
 
